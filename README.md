@@ -152,7 +152,7 @@ Live Prediction on New Tickets
 ---
 
 ## 👨‍💻 Author
-
+      SURYA PRAKASH
 **Future Interns ML Intern**  
 Task 02 — Support Ticket Classification  
 Track: Machine Learning (ML)
